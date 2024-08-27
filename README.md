@@ -1,7 +1,3 @@
-Here's a `README.md` file based on the provided Tic-Tac-Toe code:
-
----
-
 # Tic-Tac-Toe Game with Minimax Algorithm
 
 This is a Python implementation of the classic Tic-Tac-Toe game, where you can play against another player or an AI opponent that uses the Minimax algorithm for making optimal moves.
